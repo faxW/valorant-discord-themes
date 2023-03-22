@@ -9,10 +9,10 @@
 */
 @import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
 :root {
-    --transparencycolor: 0,0,0;
+    --transparencycolor: 10,10,10;
     --transparencyalpha: 0.05;
-    --messagetransparency: 0.35;
-    --guildchanneltransparency: 0.15;
+    --messagetransparency: 1.0;
+    --guildchanneltransparency: 1.0;
     --memberlistransparency: 0;
     --accentcolor: 238,201,93;
     --background: url("https://media.giphy.com/media/uBRwFMpdukW1hf8yqS/giphy.gif");
